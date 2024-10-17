@@ -39,7 +39,7 @@ The aim of this project is to explore how different neural coding schemes and le
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mzamani18/Neural-Learning-and-Coding.git
+   git clone https://github.com/MohaZamani/Neural-Learning-and-Coding.git
 2. Install the necessary dependencies:
    ```bash
    pip install -r requirements.txt
