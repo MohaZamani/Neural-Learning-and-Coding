@@ -60,3 +60,12 @@ Results from the simulations include:
 - **Impact of Inactive Neurons**: Analysis of how inactive neurons affect synaptic dynamics and learning processes.
 
 All simulation results and further analysis is available in the [report](./Report/Report-p03.pdf).
+
+
+## References
+- **Poisson Coding**: [Wikipedia Article on Poisson Distribution](https://en.wikipedia.org/wiki/Poisson_distribution)
+- **Hebbian learning**: [Hebb Rule and Experiments](https://neuronaldynamics.epfl.ch/online/Ch19.S1.html)
+- **Spike-Timing Dependent Plasticity (STDP)**: [Wikipedia Article on STDP](https://en.wikipedia.org/wiki/Spike-timing-dependent_plasticity)
+- **Reward-modulated STDP (RSTDP)**: [Article on R-STDP](https://ieeexplore.ieee.org/document/8460482)
+- **Neural Dynamics**: [Neural Dynamics Online Resources](https://neuronaldynamics.epfl.ch)
+- **Cosine Similarity**: [Wikipedia Article on Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity)
