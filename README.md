@@ -1,4 +1,4 @@
-# Unsupervised and Reinforcement Learning in Neural Networks
+# Neural Coding and Learning Mechanisms in Neuroscience
 
 This project focuses on various coding schemes and learning methods in neural networks, including **STDP** (Spike-Timing Dependent Plasticity) for unsupervised learning and **RSTDP** (Reward-modulated STDP) for reinforcement learning. It implements models for encoding spike-based information and adjusting synaptic weights in response to input stimuli.
 
@@ -16,7 +16,7 @@ The aim of this project is to explore how different neural coding schemes and le
 1. **Neural Coding Schemes**:
    - **Time To First Spike (TTFS)**: A method of encoding information based on the time of the first spike.
    - **Poisson Distribution Encoding**: Simulating neuron spiking based on Poisson-distributed input spikes.
-   
+
 <p align="center">
   <img src="./Report/Figs/coding-pic.png" alt="description" width="550"/>
 </p>
